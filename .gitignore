@@ -1,0 +1,9 @@
+Debug/
+*.am
+*.as
+*.ent
+*.ext
+*.obj
+.vs/
+ExampleFiles/
+Assembler
